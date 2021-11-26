@@ -13,3 +13,6 @@ char* StrCpy(char* src)
 	k[len] = '\0';
 	return k;
 }
+/**
+远程
+**/
